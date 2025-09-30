@@ -93,8 +93,7 @@ $$
 \begin{bmatrix}
 \dot{x}_1 \\
 \dot{x}_2
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
 0 & 1 \\
 -\frac{k}{m} & -\frac{c}{m}
