@@ -9,7 +9,7 @@
 
 ## Task 1\-1: 상태 공간 방정식 유도하기
 
-!\[\](https://kr.mathworks.com/help/examples/robust/win64/xxmass\_spring\_damper.png)
+![](https://kr.mathworks.com/help/examples/robust/win64/xxmass\_spring\_damper.png)
 
 
 뉴턴의 제 2법칙을 적용하면 다음과 같다.
@@ -153,7 +153,7 @@ R\-L\-C 회로 시스템 (Electrical System)
 
 ## Task 2\-1: 상태 공간 방정식 유도하기
 
-!\[\](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RL\_series\_C\_parallel.svg/250px\-RL\_series\_C\_parallel.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/RL\_series\_C\_parallel.svg/250px\-RL\_series\_C\_parallel.svg.png)
 
 
 **회로 파라미터 정의**
